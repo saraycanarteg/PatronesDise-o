@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRUD de Estudiantes - Java Orientado a Objetos
 
 ## Descripción
@@ -89,3 +90,6 @@ java FormularioEstudiante
 ---
 **Autor**: Proyecto CRUD de Estudiantes
 **Versión**: 1.0
+=======
+# PatronesDise-o
+>>>>>>> 4526b0029085e358eded2d42ce1a1cbe900939fd
