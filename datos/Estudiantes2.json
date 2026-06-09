@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": 11,
+    "nombreCompleto": "Marilyn Monroe",
+    "anios": 25
+  },
+  {
+    "codigo": 12,
+    "nombreCompleto": "Pedro Pascal",
+    "anios": 19
+  },
+  {
+    "codigo": 13,
+    "nombreCompleto": "Katniss Everdeen",
+    "anios": 24
+  }
+]
